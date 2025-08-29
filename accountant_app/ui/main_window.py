@@ -1,5 +1,5 @@
-from PySide6.QtWidgets import QMainWindow, QWidget, QTabWidget, QToolBar, QAction, QMessageBox
-from PySide6.QtGui import QIcon
+from PySide6.QtWidgets import QMainWindow, QWidget, QTabWidget, QToolBar, QMessageBox
+from PySide6.QtGui import QIcon, QAction
 from PySide6.QtCore import Qt
 
 from .tabs.clients_tab import ClientsTab
